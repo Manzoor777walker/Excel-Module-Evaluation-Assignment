@@ -107,13 +107,13 @@ Chart 6:Line Chart 2
               • Rows: Age 
                •Values: Healthcare Charges:Right-click the value field , Summarize Values By , select Average.
                Number Formatting: Right-click any number in the table , Number Format, select Currency ($) with 0 decimal places.
-Chart Creation & Formatt
-                       •Click inside the Pivot Table and Insert  Line Chart  with Straight Lines/Markers.
-                        •Format Vertical Axis: Right-click the Y-axis , Format Axis ,ensure Currency ($) format is applied.
-                        •Hide Field Buttons: Right-click any gray button on the chart , select Hide All Field Buttons on Chart.
+   ## Chart Creation & Formatt
+                        •Click inside the Pivot Table and Insert  Line Chart  with Straight Lines/Markers.
+                        •Format Vertical Axis: Right-click the Y-axis,Format Axis ,ensure Currency format is applied.
+                        •Hide Field Buttons: Right-click any gray button on the chart,select Hide All Field Buttons on Chart.
 # Creating an Interactive Dash board
                             •making a duplicate copy of Charts Created in Pivot sheet and using ctrl+x functon to move on Dashboard sheet.
-                            •Assign Each chart on the dashboard sheet for  making interactive sheet
+                            •Assign Each chart on the dashboard sheet for making interactive sheet
                             •Add a slicer for connecting all these six chart and make interactive.
                             •Make necessary editing in Slicer Setting.
                             •Refer "Dashboardsheet".
